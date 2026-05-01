@@ -4,25 +4,8 @@ iOS application developed as part of a technical assignment.
 
 Overview
 
-Docapp is an iOS application that demonstrates user data management, authentication, and interaction with remote services using modern Apple development frameworks.
+Docapp is an iOS application that demonstrates user data management, and interaction with remote services using modern Apple development frameworks.
 
-Tech Stack
-
-* Swift
-* SwiftUI
-* MVVM Architecture
-* Firebase (Authentication, Firestore, Storage)
-* URLSession / Alamofire
-* CoreData
-* Keychain
-
-Features
-
-* User authentication
-* Profile management
-* Remote data fetching and storage
-* Local data persistence
-* Secure data handling
 
 Architecture
 
